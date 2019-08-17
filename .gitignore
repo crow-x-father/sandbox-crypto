@@ -1,0 +1,5 @@
+r
+build/*
+*.swp
+*.data
+*.dat
